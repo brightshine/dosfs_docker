@@ -1,2 +1,2 @@
 # dosfs_docker
-Ubuntu docker image to generate DOS image
+Ubuntu docker image for generating DOS image
